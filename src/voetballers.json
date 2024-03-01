@@ -6,14 +6,14 @@
       "leeftijd": 36,
       "actief": true,
       "geboortedatum": "1987-06-24",
-      "profielfoto": "#",
+      "profielfoto": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/spelers/messi.jpg",
       "positie": "aanvaller",
       "hobbies": ["voetbal", "lezen"],
       "team": {
         "id": 101,
         "naam": "Inter Miami",
         "land": "Amerika",
-        "logo": "#"
+        "logo": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/logos/miami.png"
       }
     },
     {
@@ -23,14 +23,14 @@
       "leeftijd": 39,
       "actief": true,
       "geboortedatum": "1985-02-05",
-      "profielfoto": "#",
+      "profielfoto": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/spelers/ronaldo.jpg",
       "positie": "aanvaller",
       "hobbies": ["voetbal", "fitness"],
       "team": {
         "id": 102,
         "naam": "Al-Nassr",
         "land": "Saoedi-Arabië",
-        "logo": "#"
+        "logo": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/logos/al%20nassr.png"
       }
     },
     {
@@ -40,14 +40,14 @@
       "leeftijd": 32,
       "actief": true,
       "geboortedatum": "1992-02-05",
-      "profielfoto": "#",
+      "profielfoto": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/spelers/neymar.jpg",
       "positie": "aanvaller",
       "hobbies": ["voetbal", "poker"],
       "team": {
         "id": 103,
         "naam": "Al-Hilal",
         "land": "Saoedi-Arabië",
-        "logo": "#"
+        "logo": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/logos/al%20hilal.png"
       }
     },
     {
@@ -57,14 +57,14 @@
       "leeftijd": 32,
       "actief": true,
       "geboortedatum": "1991-06-28",
-      "profielfoto": "#",
+      "profielfoto": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/spelers/kevin.jpeg",
       "positie": "middenvelder",
       "hobbies": ["voetbal", "golf"],
       "team": {
         "id": 104,
         "naam": "Manchester City",
         "land": "Engeland",
-        "logo": "#"
+        "logo": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/logos/man%20city.png"
       }
     },
     {
@@ -74,14 +74,14 @@
       "leeftijd": 25,
       "actief": true,
       "geboortedatum": "1998-12-20",
-      "profielfoto": "#",
+      "profielfoto": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/spelers/mbappe.jpg",
       "positie": "aanvaller",
       "hobbies": ["voetbal", "videogames"],
       "team": {
         "id": 105,
         "naam": "Paris Saint-Germain",
         "land": "Frankrijk",
-        "logo": "#"
+        "logo": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/logos/psg.png"
       }
     },
     {
@@ -91,14 +91,14 @@
       "leeftijd": 35,
       "actief": true,
       "geboortedatum": "1988-08-21",
-      "profielfoto": "#",
+      "profielfoto": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/spelers/lewandowski.jpg",
       "positie": "aanvaller",
       "hobbies": ["voetbal", "koken"],
       "team": {
         "id": 106,
         "naam": "FC Bareclona",
         "land": "Spanje",
-        "logo": "#"
+        "logo": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/logos/barca.png"
       }
     },
     {
@@ -108,14 +108,14 @@
       "leeftijd": 32,
       "actief": true,
       "geboortedatum": "1991-07-08",
-      "profielfoto": "#",
+      "profielfoto": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/spelers/virgil.jpg",
       "positie": "verdediger",
       "hobbies": ["voetbal", "reizen"],
       "team": {
         "id": 107,
         "naam": "Liverpool",
         "land": "Engeland",
-        "logo": "#"
+        "logo": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/logos/liverpool.jpg"
       }
     },
     {
@@ -125,14 +125,14 @@
       "leeftijd": 31,
       "actief": true,
       "geboortedatum": "1992-06-15",
-      "profielfoto": "#",
+      "profielfoto": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/spelers/salah.jpg",
       "positie": "aanvaller",
       "hobbies": ["voetbal", "schaken"],
       "team": {
-        "id": 108,
+        "id": 107,
         "naam": "Liverpool",
         "land": "Engeland",
-        "logo": "#"
+        "logo": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/logos/liverpool.jpg"
       }
     },
     {
@@ -142,14 +142,14 @@
       "leeftijd": 38,
       "actief": true,
       "geboortedatum": "1985-09-09",
-      "profielfoto": "#",
+      "profielfoto": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/spelers/modric.png",
       "positie": "middenvelder",
       "hobbies": ["voetbal", "schilderen"],
       "team": {
-        "id": 109,
+        "id": 108,
         "naam": "Real Madrid",
         "land": "Spanje",
-        "logo": "#"
+        "logo": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/logos/real%20madrid.jpg"
       }
     },
     {
@@ -159,14 +159,14 @@
       "leeftijd": 37,
       "actief": true,
       "geboortedatum": "1986-03-30",
-      "profielfoto": "#",
+      "profielfoto": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/spelers/ramos.jpeg",
       "positie": "verdediger",
       "hobbies": ["voetbal", "piano spelen"],
       "team": {
-        "id": 110,
+        "id": 109,
         "naam": "Sevilla",
         "land": "Spanje",
-        "logo": "#"
+        "logo": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/logos/sevilla.png"
       }
     }
   ]

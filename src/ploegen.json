@@ -2,69 +2,62 @@
     "id": 101,
     "naam": "Inter Miami",
     "land": "Amerika",
-    "logo": "#"
+    "logo": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/logos/miami.png"
   },
 
   {
     "id": 102,
     "naam": "Al-Nassr",
     "land": "Saoedi-Arabië",
-    "logo": "#"
+    "logo": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/logos/al%20nassr.png"
   },
 
   {
     "id": 103,
     "naam": "Al-Hilal",
     "land": "Saoedi-Arabië",
-    "logo": "#"
+    "logo": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/logos/al%20hilal.png"
   },
 
   {
     "id": 104,
     "naam": "Manchester City",
     "land": "Engeland",
-    "logo": "#"
+    "logo": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/logos/man%20city.png"
   },
 
   {
     "id": 105,
     "naam": "Paris Saint-Germain",
     "land": "Frankrijk",
-    "logo": "#"
+    "logo": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/logos/psg.png"
   },
 
   {
     "id": 106,
     "naam": "FC Bareclona",
     "land": "Spanje",
-    "logo": "#"
+    "logo": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/logos/barca.png"
   },
 
   {
     "id": 107,
     "naam": "Liverpool",
     "land": "Engeland",
-    "logo": "#"
+    "logo": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/logos/liverpool.jpg"
   },
 
   {
     "id": 108,
-    "naam": "Liverpool",
-    "land": "Engeland",
-    "logo": "#"
+    "naam": "Real Madrid",
+    "land": "Spanje",
+    "logo": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/logos/real%20madrid.jpg"
   },
 
   {
     "id": 109,
-    "naam": "Real Madrid",
-    "land": "Spanje",
-    "logo": "#"
-  },
-
-  {
-    "id": 110,
     "naam": "Sevilla",
     "land": "Spanje",
-    "logo": "#"
+    "logo": "https://raw.githubusercontent.com/Bilalegh/Project-1/main/logos/sevilla.png"
   }
 ]
