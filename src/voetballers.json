@@ -1,0 +1,173 @@
+[
+    {
+      "id": 1,
+      "naam": "Lionel Messi",
+      "beschrijving": "Een van de beste voetballers aller tijden",
+      "leeftijd": 36,
+      "actief": true,
+      "geboortedatum": "1987-06-24",
+      "profielfoto": "#",
+      "positie": "aanvaller",
+      "hobbies": ["voetbal", "lezen"],
+      "team": {
+        "id": 101,
+        "naam": "Inter Miami",
+        "land": "Amerika",
+        "logo": "#"
+      }
+    },
+    {
+      "id": 2,
+      "naam": "Cristiano Ronaldo",
+      "beschrijving": "Een van de meest doelpuntenmakende spelers",
+      "leeftijd": 39,
+      "actief": true,
+      "geboortedatum": "1985-02-05",
+      "profielfoto": "#",
+      "positie": "aanvaller",
+      "hobbies": ["voetbal", "fitness"],
+      "team": {
+        "id": 102,
+        "naam": "Al-Nassr",
+        "land": "Saoedi-Arabië",
+        "logo": "#"
+      }
+    },
+    {
+      "id": 3,
+      "naam": "Neymar Jr.",
+      "beschrijving": "De beste dribbeler in de wereld",
+      "leeftijd": 32,
+      "actief": true,
+      "geboortedatum": "1992-02-05",
+      "profielfoto": "#",
+      "positie": "aanvaller",
+      "hobbies": ["voetbal", "poker"],
+      "team": {
+        "id": 103,
+        "naam": "Al-Hilal",
+        "land": "Saoedi-Arabië",
+        "logo": "#"
+      }
+    },
+    {
+      "id": 4,
+      "naam": "Kevin De Bruyne",
+      "beschrijving": "Een van de beste middenvelders in de wereld met de beste passen",
+      "leeftijd": 32,
+      "actief": true,
+      "geboortedatum": "1991-06-28",
+      "profielfoto": "#",
+      "positie": "middenvelder",
+      "hobbies": ["voetbal", "golf"],
+      "team": {
+        "id": 104,
+        "naam": "Manchester City",
+        "land": "Engeland",
+        "logo": "#"
+      }
+    },
+    {
+      "id": 5,
+      "naam": "Kylian Mbappé",
+      "beschrijving": "Op dit moment de snelste aanvaller in heel voetbal",
+      "leeftijd": 25,
+      "actief": true,
+      "geboortedatum": "1998-12-20",
+      "profielfoto": "#",
+      "positie": "aanvaller",
+      "hobbies": ["voetbal", "videogames"],
+      "team": {
+        "id": 105,
+        "naam": "Paris Saint-Germain",
+        "land": "Frankrijk",
+        "logo": "#"
+      }
+    },
+    {
+      "id": 6,
+      "naam": "Robert Lewandowski",
+      "beschrijving": "Een doelpuntenmachine",
+      "leeftijd": 35,
+      "actief": true,
+      "geboortedatum": "1988-08-21",
+      "profielfoto": "#",
+      "positie": "aanvaller",
+      "hobbies": ["voetbal", "koken"],
+      "team": {
+        "id": 106,
+        "naam": "FC Bareclona",
+        "land": "Spanje",
+        "logo": "#"
+      }
+    },
+    {
+      "id": 7,
+      "naam": "Virgil van Dijk",
+      "beschrijving": "Een sterke en leidende verdediger",
+      "leeftijd": 32,
+      "actief": true,
+      "geboortedatum": "1991-07-08",
+      "profielfoto": "#",
+      "positie": "verdediger",
+      "hobbies": ["voetbal", "reizen"],
+      "team": {
+        "id": 107,
+        "naam": "Liverpool",
+        "land": "Engeland",
+        "logo": "#"
+      }
+    },
+    {
+      "id": 8,
+      "naam": "Mohamed Salah",
+      "beschrijving": "Een snelle en doelgerichte aanvaller",
+      "leeftijd": 31,
+      "actief": true,
+      "geboortedatum": "1992-06-15",
+      "profielfoto": "#",
+      "positie": "aanvaller",
+      "hobbies": ["voetbal", "schaken"],
+      "team": {
+        "id": 108,
+        "naam": "Liverpool",
+        "land": "Engeland",
+        "logo": "#"
+      }
+    },
+    {
+      "id": 9,
+      "naam": "Luka Modric",
+      "beschrijving": "Een technisch begaafde middenvelder",
+      "leeftijd": 38,
+      "actief": true,
+      "geboortedatum": "1985-09-09",
+      "profielfoto": "#",
+      "positie": "middenvelder",
+      "hobbies": ["voetbal", "schilderen"],
+      "team": {
+        "id": 109,
+        "naam": "Real Madrid",
+        "land": "Spanje",
+        "logo": "#"
+      }
+    },
+    {
+      "id": 10,
+      "naam": "Sergio Ramos",
+      "beschrijving": "Een ervaren en agressieve verdediger",
+      "leeftijd": 37,
+      "actief": true,
+      "geboortedatum": "1986-03-30",
+      "profielfoto": "#",
+      "positie": "verdediger",
+      "hobbies": ["voetbal", "piano spelen"],
+      "team": {
+        "id": 110,
+        "naam": "Sevilla",
+        "land": "Spanje",
+        "logo": "#"
+      }
+    }
+  ]
+  

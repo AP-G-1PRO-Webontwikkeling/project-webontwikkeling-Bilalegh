@@ -1,0 +1,70 @@
+[{
+    "id": 101,
+    "naam": "Inter Miami",
+    "land": "Amerika",
+    "logo": "#"
+  },
+
+  {
+    "id": 102,
+    "naam": "Al-Nassr",
+    "land": "Saoedi-Arabië",
+    "logo": "#"
+  },
+
+  {
+    "id": 103,
+    "naam": "Al-Hilal",
+    "land": "Saoedi-Arabië",
+    "logo": "#"
+  },
+
+  {
+    "id": 104,
+    "naam": "Manchester City",
+    "land": "Engeland",
+    "logo": "#"
+  },
+
+  {
+    "id": 105,
+    "naam": "Paris Saint-Germain",
+    "land": "Frankrijk",
+    "logo": "#"
+  },
+
+  {
+    "id": 106,
+    "naam": "FC Bareclona",
+    "land": "Spanje",
+    "logo": "#"
+  },
+
+  {
+    "id": 107,
+    "naam": "Liverpool",
+    "land": "Engeland",
+    "logo": "#"
+  },
+
+  {
+    "id": 108,
+    "naam": "Liverpool",
+    "land": "Engeland",
+    "logo": "#"
+  },
+
+  {
+    "id": 109,
+    "naam": "Real Madrid",
+    "land": "Spanje",
+    "logo": "#"
+  },
+
+  {
+    "id": 110,
+    "naam": "Sevilla",
+    "land": "Spanje",
+    "logo": "#"
+  }
+]
